@@ -1,0 +1,11 @@
+Instructions: 
+
+Installation: 
+
+follow this guide to stand up a basic project with carrierwave:
+https://www.javatpoint.com/ruby-on-rails-file-upload 
+
+Making carrierwave work with FTP: 
+https://github.com/luan/carrierwave-ftp 
+
+note: add the gems to the Gemfile on the "Installation" step 
